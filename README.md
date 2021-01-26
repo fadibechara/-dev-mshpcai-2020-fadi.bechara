@@ -1,5 +1,5 @@
-# -dev-mshpcai-2020-fadi.bechara
-Predictive Maintenance using MAchine Learning - Master HPC-AI Promo 2020-2021. Fadi BECHARA
+# Predictive Maintenance - TurboFan Engines
+Predictive Maintenance using Machine Learning - Master HPC-AI Promo 2020-2021. Fadi BECHARA
 
 The goal of this challenge is to predict whether or not some turbofan engines are going to break down within the next 100 cycles. The dataset consists of different multivariate time-series. These different time-series refer to different engines (engine no. in the dataset).
 
